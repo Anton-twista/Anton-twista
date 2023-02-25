@@ -44,6 +44,6 @@
 
 
 You can contact me:<br>
-My Email 📫: [extw1ster@yandex.ru](http://extw1ster@yandex.ru)<br>
+My Email 📫: <a href="mailto:extw1ster@yandex.ru">extw1ster@yandex.ru</a><br>
 VK: [Vkontakte](https://vk.com/twistahard) ⌨️<br>
 Or You can add me on Telegram,WhatsUp +7 (927) 371-57-39 📱<br>
