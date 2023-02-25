@@ -1,12 +1,12 @@
  # **Hello everyone!!!**  :wave: 
-
+<br>
  
 
 
 
 
 ## **I'am a self-tought junior frontend developer.** :computer:
-
+<br>
 
 ### ***Set of tools and skills on my side (learning them throug work with them):***
 
